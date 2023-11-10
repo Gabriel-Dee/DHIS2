@@ -11,7 +11,8 @@
     "deploy": "d2-app-scripts deploy"
   },
   "devDependencies": {
-    "@dhis2/cli-app-scripts": "^10.3.10"
+    "@dhis2/cli-app-scripts": "^10.3.10",
+    "@dhis2/cli-style": "^10.5.1"
   },
   "dependencies": {
     "@dhis2/app-runtime": "^3.9.4"
